@@ -213,12 +213,12 @@ namespace Test3Project
         static void Main(string[] args)
         {
             Program program = new Program();
-            //program.DivisableBySeven();
-            //program.MinAndMaxPrime();
-            //program.RepetationOfNumbers();
-            //program.Sorting();
-            //program.UserNameAndPassword();
-            //program.CardValidation();
+            program.DivisableBySeven();
+            program.MinAndMaxPrime();
+            program.RepetationOfNumbers();
+            program.Sorting();
+            program.UserNameAndPassword();
+            program.CardValidation();
             program.CowsAndBulls();
         }
     }
