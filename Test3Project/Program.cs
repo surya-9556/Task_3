@@ -133,28 +133,38 @@ namespace Test3Project
         {
             string[] arr = { "kite","four","neat","play","goal" };
             int cow = 0 , bulls = 0;
-            int check = 0;
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.WriteLine("Pleaes enter the guess word");
                 string GuessWord = Console.ReadLine();
                 string word = arr[i];
-                if (word[i] == GuessWord[i])
+                for (i = 0; i < word.Length; i++)
                 {
-                    cow += 1;
-                }
-                else
-                {
-                    for (int j = 0; j < word.Length; j++)
+                    if (word[i] == word[i])
                     {
-                        if (word[i] == GuessWord[j] && i != j)
+                        cow += 1;
+                    }
+                    else
+                    {
+                        for (int j = 0; j < GuessWord.Length; j++)
                         {
-                            bulls += 1;
-                            check += 1;
+                            if (word[i] == GuessWord[j] && i != j)
+                            {
+                                bulls += 1;
+                            }
                         }
                     }
                 }
+                    
                 Console.WriteLine("Cows score " + cow + " Bulls score " + bulls);
+                if(cow == 4 && bulls == 0)
+                {
+                    Console.WriteLine("You won!!!!!!!");
+                }
+                else
+                {
+                    Console.WriteLine("Try Again");
+                }
             }
         }
         //7
@@ -203,12 +213,12 @@ namespace Test3Project
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.DivisableBySeven();
-            program.MinAndMaxPrime();
-            program.RepetationOfNumbers();
-            program.Sorting();
-            program.UserNameAndPassword();
-            program.CardValidation();
+            //program.DivisableBySeven();
+            //program.MinAndMaxPrime();
+            //program.RepetationOfNumbers();
+            //program.Sorting();
+            //program.UserNameAndPassword();
+            //program.CardValidation();
             program.CowsAndBulls();
         }
     }

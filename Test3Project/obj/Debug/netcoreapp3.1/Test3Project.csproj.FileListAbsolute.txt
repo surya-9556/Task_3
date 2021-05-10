@@ -11,3 +11,16 @@ C:\Users\Lenovo\source\repos\Test3Solution\Test3Project\obj\Debug\netcoreapp3.1\
 C:\Users\Lenovo\source\repos\Test3Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.dll
 C:\Users\Lenovo\source\repos\Test3Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.pdb
 C:\Users\Lenovo\source\repos\Test3Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\bin\Debug\netcoreapp3.1\Test3Project.exe
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\bin\Debug\netcoreapp3.1\Test3Project.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\bin\Debug\netcoreapp3.1\Test3Project.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\bin\Debug\netcoreapp3.1\Test3Project.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\bin\Debug\netcoreapp3.1\Test3Project.dll
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\bin\Debug\netcoreapp3.1\Test3Project.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.dll
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Git\Day10\Test_3_Solution\Test3Project\obj\Debug\netcoreapp3.1\Test3Project.genruntimeconfig.cache
